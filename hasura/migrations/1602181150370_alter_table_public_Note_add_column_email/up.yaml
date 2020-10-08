@@ -1,0 +1,5 @@
+- args:
+    cascade: false
+    read_only: false
+    sql: ALTER TABLE "public"."Note" ADD COLUMN "email" text NOT NULL;
+  type: run_sql
