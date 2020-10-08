@@ -21,7 +21,7 @@ cd hasura
 hasura console
 ```
 
-A browswer will automatically display.  Any changes made in the console-mode browswer will be tracked as migration changes in the local file system.
+A browswer will automatically display.  Any changes made in the console-mode browser will be tracked as migration changes in the local file system.
 
 ## Applying Hasura Changes
 
